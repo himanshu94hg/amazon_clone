@@ -1,0 +1,17 @@
+.order{
+    padding: 40px;
+    margin: 20px 0;
+    background: #fff;
+
+}
+
+.order__id{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.order__total{
+    font-weight: 500;
+    text-align: right;
+}
